@@ -2,7 +2,7 @@
 
 AI Resume Builder is a powerful MERN stack application that leverages the **Gemini API** to generate high-quality, professional resumes based on user-provided data. Designed with a clean and responsive UI, the platform allows users to create, preview, and download AI-generated resumes — all in one seamless experience.
 
-🔗 **Live Demo**: [resume-generator-silk.vercel.app](https://resume-generator-silk.vercel.app/)
+🔗 **Live Demo**: [resume-generator](https://resume-generator-silk.vercel.app/)
 
 ---
 
@@ -27,13 +27,7 @@ AI Resume Builder is a powerful MERN stack application that leverages the **Gemi
 | **AI**       | Gemini API               |
 | **DevOps**   | Docker                   |
 
----
 
-## 🖼️ Screenshots
-
-*(Add screenshots of key features or pages here if needed)*
-
----
 
 ## 📦 Installation & Setup
 
@@ -42,5 +36,4 @@ AI Resume Builder is a powerful MERN stack application that leverages the **Gemi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/KarthikBandi75/Ai-Resume-Builder
