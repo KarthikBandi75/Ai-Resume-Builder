@@ -2,7 +2,7 @@
 
 AI Resume Builder is a powerful MERN stack application that leverages the **Gemini API** to generate high-quality, professional resumes based on user-provided data. Designed with a clean and responsive UI, the platform allows users to create, preview, and download AI-generated resumes — all in one seamless experience.
 
-🔗 **Live Demo**: [resume-generator](https://resume-generator-silk.vercel.app/)
+🔗 **Live Demo**: [resume-generator](https://talenthire-resumegenerator.vercel.app/)
 
 ---
 
